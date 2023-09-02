@@ -1,5 +1,5 @@
 # PsyAlert
 
-![PsyAlert](https://github.com/sunny-dubey/SIH/assets/81878805/a7ab1817-6796-4658-a7d8-4d20430dfabd)
+![PsyAlert](https://github.com/psyalert-sih/psyalert-work/assets/81878805/06325d5e-17f9-4941-959b-a2f282a3f4fb)
 
 ![image](https://github.com/psyalert-sih/psyalert-work/assets/81878805/fbca547d-ffa3-4649-8061-88be6f87277e)
